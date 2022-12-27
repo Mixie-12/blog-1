@@ -30,6 +30,7 @@
     "object-assign": "~4.1.1",
     "pngquant-bin": "~5.0.2",
     "pretty-data": "^0.40.0",
-    "uglify-es": "~3.3.9"
+    "uglify-es": "~3.3.9",
+    "load-grunt-tasks": "^4.2.0"
   }
 }
