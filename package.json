@@ -2,7 +2,7 @@
   "name": "blog",
   "private": true,
   "scripts": {
-    "build": "hexo generate --staging production && cd themes/custom && grunt",
+    "build": "hexo generate --staging production && cd themes/custom && npm install && grunt",
     "start": "cd scripts && node index.js"
   },
   "hexo": {
